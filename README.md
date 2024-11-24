@@ -56,3 +56,4 @@ Link Figma: https://www.figma.com/design/7Gg68QktPLfAawHMd2n1ea/Site---Senac?nod
 - [DANILO AUGUSTO FELIX](https://github.com/gutofeli)
 - [MIGUEL GONCALVES LEITE](https://github.com/MiguelGoncalvesLeite)
 - [RENATA MARTINS DANTAS PULZ](https://github.com/renatapulz)
+- [LUAN DA SILVA OLIVEIRA](https://github.com/luansvoliveira)
