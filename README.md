@@ -44,8 +44,6 @@ Tela intermediária:
 
 Link Figma: https://www.figma.com/design/7Gg68QktPLfAawHMd2n1ea/Site---Senac?node-id=25-2&node-type=canvas&t=dF1xjpMxNOwyMsy4-0
 
-## Modelo de Entidade e Relacionamento
-(COLOCAR FOTO)
 
 ## Casos de uso (UML)
 <img width="747" alt="Captura de Tela 2024-11-16 às 21 20 02" src="https://github.com/user-attachments/assets/b4f28002-d02f-488b-913e-bc84cfa13ce9">
@@ -55,7 +53,6 @@ Link Figma: https://www.figma.com/design/7Gg68QktPLfAawHMd2n1ea/Site---Senac?nod
 
 ### Integrantes - Grupo 05
 - DANILO AUGUSTO FELIX
-- LUAN DA SILVA OLIVEIRA
 - HASSAN DIAB
 - MIGUEL GONCALVES LEITE
 - RENATA MARTINS DANTAS PULZ
