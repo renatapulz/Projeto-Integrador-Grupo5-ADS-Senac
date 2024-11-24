@@ -52,7 +52,7 @@ Link Figma: https://www.figma.com/design/7Gg68QktPLfAawHMd2n1ea/Site---Senac?nod
 <img width="750" alt="Captura de Tela 2024-11-16 às 21 00 43" src="https://github.com/user-attachments/assets/a6262789-111a-4f70-b18f-204ab6c53d21">
 
 ### Integrantes - Grupo 05
-- DANILO AUGUSTO FELIX
-- HASSAN DIAB
-- MIGUEL GONCALVES LEITE
-- RENATA MARTINS DANTAS PULZ
+- [HASSAN DIAB](https://github.com/Diabzito)
+- [DANILO AUGUSTO FELIX](https://github.com/gutofeli)
+- [MIGUEL GONCALVES LEITE](https://github.com/MiguelGoncalvesLeite)
+- [RENATA MARTINS DANTAS PULZ](https://github.com/renatapulz)
